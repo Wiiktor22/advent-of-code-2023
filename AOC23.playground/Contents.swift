@@ -1,6 +1,6 @@
 import Foundation
 
-let challenge = Day02(resourceName: "input2")
+let challenge = Day03(resourceName: "input3")
 
 let data = challenge.data
 
