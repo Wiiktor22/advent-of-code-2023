@@ -1,8 +1,9 @@
 import Foundation
 
-let challenge = Day04(resourceName: "input4")
+let challenge = Day06(resourceName: "input6")
 
 let data = challenge.data
 
 challenge.partOne()
-challenge.partTwo()
+//challenge.partTwo()
+
